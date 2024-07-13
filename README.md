@@ -1,4 +1,4 @@
-# OnlineReservationSyatem
+# OnlineReservationSystem
 
 package OasisInfobyte;
 
